@@ -7,5 +7,7 @@ The python file calculates the distribution channel type of the first 1000 video
 The dataset youtube_dataset.csv has the details of 4000 YouTube videos, user ids, names, subscribers, view, comments, country, date the channel published, channel type, link to the video, and respective earnings of the user. 
 
 
-Language used is python to query the dataset.
+Language used: python to query the dataset.
 
+
+Authors : Pooja Shetty, Roshini Reji, Saloni, Sneha Tom, Anju Kallath Philip
